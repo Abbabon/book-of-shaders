@@ -1,6 +1,8 @@
 {
     "recommendations": [
         "dtoplak.vscode-glsllint",
-        "circledev.glsl-canvas"
+        "circledev.glsl-canvas",
+        "slevesque.shader",
+        "j0hnm4r5.glsl-snippets"
     ]
 }
